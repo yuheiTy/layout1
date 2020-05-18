@@ -1,0 +1,16 @@
+.box1{
+    color: rgba(59, 34, 34, 0.658);
+    background: rebeccapurple;
+    font-size: 2rem; /*1rem = 16px*/
+    width: calc(100% - 80px);
+}
+
+.box2{
+    background: royalblue;
+    width: calc(100% - 50%);
+}
+.box3{
+    background: salmon;
+    width: calc(100% / 3);
+    margin: auto;
+}
